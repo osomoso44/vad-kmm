@@ -1,0 +1,3 @@
+headers = SimpleVADWrapper.h
+package = com.kmm.vad.native
+compilerOpts = -I${projectDir}/src/iosMain/cinterop
